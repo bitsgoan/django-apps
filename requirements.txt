@@ -10,7 +10,7 @@ chardet==4.0.0
 charset-normalizer==2.1.1
 click==8.0.3
 colorama==0.4.4
-command-not-found==0.3
+
 crispy-bootstrap5==0.7
 cryptography==3.4.8
 cupshelpers==1.0
